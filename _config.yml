@@ -75,7 +75,7 @@ author:
       url: "https://github.com/commonacumen/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://commonacumen.com/home/"
+      url: "http://commonacumen.com/home/"
 
 footer:
   links:
