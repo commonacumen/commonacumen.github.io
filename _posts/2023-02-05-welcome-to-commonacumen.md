@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Commonacumen!"
+title: "Welcome to Common Acumen!"
 date: 2023-02-05T13:34:30-04:00
 categories:
   - blog
