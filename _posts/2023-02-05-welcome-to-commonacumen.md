@@ -9,7 +9,7 @@ tags:
 
 Welcome to Common Acumen.  In this blog you will find my posts from the Microsoft Data Architecture blog over the years and newer posts.  
 
-The goal of this blog is to improve your ability to make good judgments and quick decisions in the Analytics, and Data and AI domain.  The inspiration for the blog is to learn about topics like Analytics, AI and Machine Learning, Business Intelligence, Data Mesh, Data Lakehouse, Data Marts, and Data Warehousing.  The hope is to make this common acumen earlier for everyone earlier in their life and career.
+The goal of this blog is to improve your ability to make good judgments and quick decisions in the Analytics, and Data and AI domain.  The inspiration for the blog is to learn about topics like Analytics, AI and Machine Learning, Business Intelligence, Data Mesh, Data Lakehouse, Data Marts, and Data Warehousing.  The hope is to make this common acumen for everyone earlier in their life and career.
 
 Hope you enjoy the posts.
 
