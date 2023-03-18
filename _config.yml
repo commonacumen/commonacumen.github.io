@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "CommonAcumen"
-  avatar : "/assets/images/caLogo.jpg"
+  avatar : "/assets/images/caLogo.png"
   bio    : "Please follow me at blog.commonacumen.com"
   links:
     - label: "Blog"
