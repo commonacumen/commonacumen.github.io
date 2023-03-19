@@ -27,9 +27,11 @@ Organizations have many COTS and custom built apps that are backed by relational
 
 Take a look at Mark Kromer's demo of the the CDC feature in Azure Data Factory [Change data capture resource overview](https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture-resource)
 
-Or checkout [Change Data Capture and Managed Airflow in Azure Data Factory | Azure Friday](https://www.youtube.com/playlist?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6)
+Or checkout `Change Data Capture and Managed Airflow in Azure Data Factory | Azure Friday`
 
 {% include youtube.html id="GaWlhlReoA8" %}
+
+### ADF CDC
 
 ![adfcdc](https://phx02pap001files.storage.live.com/y4mbh6lkungQGXWYB05oe5gjKvNltwNCcMkuTmQxGCc0G0RzYDWGmXDuj6-pvkjL-e7-S_h25cdpjw2dTQAd9c7ViimkuUN1qPS5h4-s_q-zkjrZQRHojzHVChJOdW4Nexu5ayU6LXSEsdu_IHjMcOvOdZhC5Q77s1-gmHS_Wciijqk9QlSBqrd-0p1oom_RkZL?width=1433&height=501&cropmode=none)
 
