@@ -2,9 +2,10 @@
 title: "Microsoft delivers best Analytics Data Pro Christmas gift since 1998"
 date: 2020-12-24T13:38:30-04:00
 categories:
-  - blog
+  - architecture & design
+  - learning & growth
 tags:
-  - architecture
+  - skilling
 ---
 
 Check out this past post from the Microsoft Data Architecture Blog in December 2020

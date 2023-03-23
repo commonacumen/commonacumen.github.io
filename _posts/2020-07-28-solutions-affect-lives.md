@@ -2,9 +2,9 @@
 title: "Solutions enable Human Experiences that Affect Lives"
 date: 2020-07-28T021:34:20-04:00
 categories:
-  - blog
+  - architecture & design
 tags:
-  - architecture
+  - solutions
 ---
 
 Check out this past post from the Microsoft Data Architecture Blog in July 2020

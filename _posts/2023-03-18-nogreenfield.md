@@ -2,9 +2,12 @@
 title: "Data Mesh Architecture: Extend an existing operational COTS application using cloud-based HA/DR to build out an analytics platform"
 date: 2023-03-18T16:10:30-04:00
 categories:
-  - blog
+  - architecture & design
+  - learning & growth
+  - organization & sustainability
 tags:
-  - architecture
+  - datamesh
+  - lakehouse
 ---
 
 ## Abstract
