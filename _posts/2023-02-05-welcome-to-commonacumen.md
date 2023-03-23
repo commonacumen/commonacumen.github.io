@@ -50,6 +50,8 @@ categories:
   - technology & culture
   - theory & practice
   - thinking & ideation
+
+
 tags:
   - changedatacapture
   - datamesh
