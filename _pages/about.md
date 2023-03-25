@@ -27,8 +27,20 @@ categories:
 
 
 tags:
+  - ai
+  - analytics
+  - architecture
+  - azure
+  - businessintelligence
+  - change
   - changedatacapture
+  - cloud
+  - data
+  - dataanalyst
+  - dataengineer
+  - dataintegration
   - datamesh
+  - datascientist
   - lakehouse
   - skilling
   - solutions
