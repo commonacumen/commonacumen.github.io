@@ -10,7 +10,7 @@ tags:
 
 Check out this past post from the Microsoft Data Architecture Blog in December 2020
 
-![Microsoft delivers best Analytics](https://phx02pap001files.storage.live.com/y4miiWEgGFu5wzKd50_HZrsH9wIs-6ff31pAK5Q0yA8TDUW-fPRqoC1vGA4aRoPzkWerUY7wL4jYi7xH77JG-FwC7JbV7y_r9_lRHhLJgZzlf_ZAacetTG1PQYodlhn9B-ZlMCmqdSjdUBF5WjgatX9O31H1Hbi0do42p6bQ8B3wagQC3f4rjAFTF17cM9CqVS5?width=981&height=750&cropmode=none)
+![Microsoft delivers best Analytics](/assets/images/postimages/XmasGift/xmasgift.png)
 
 Every December, is a great time to reflect on the past, evaluate and present, and postulate about the future.  Like in Charles Dickens “A Christmas Carol” with Ghosts of Christmas Past, Present, and Future but perhaps less scary - although 2020 has been a frightening year with Covid-19.  While the past and present related to Covid-19 includes staying home, wearing masks, social distancing, and frequent hand washing - hopefully the future is improving with more vaccines in market and the turn of another New Year.
 
@@ -28,7 +28,7 @@ So, in the era of client server computing SQL Server running in company data cen
 
 What does Microsoft have available today to help Data Engineers, Data Scientists, Data Analysts, and Data Officers (Data Owner, Data Stewards, Chief Data Officers)?  Do customers need these tools and are they prepared to employ these Data Pro roles?
 
-![datasnowman](https://phx02pap001files.storage.live.com/y4mTZzEnKb1NLPZhdPj4H7LtYe9AfjLsTPyJ_569XiuHUUMgNG-cMASwsjl420ezhmBivjo9jxFTej7xTqHMVsjWKmnMDGqtYzxQ_tqLd8HTfF-1C3_K3WXtFFWf1aOefhD0nlR3cRoLZhUDAGSaQ6BljgffVt_prF7oajACjIRww9raxRZP4S3onCiDA1P23d1?width=276&height=462&cropmode=none)
+![datasnowman](/assets/images/postimages/XmasGift/DataSnowmanModern.JPG)
 
 Here are my GitHub at [https://github.com/DataSnowman](https://github.com/DataSnowman) where I focus on projects that focus on Data & Analytics.
 
@@ -36,15 +36,15 @@ Microsoft’s combination of industry leading Power BI and its complete offering
 
 Azure Synapse Analytics is poised to do the same with the Cloud Data and Analytics market as SQL Server did for the on-premises BI and Data Warehousing market between 1998 and 2008.  Only I think it is going to happen way faster because of Azure.  What has Azure Synapse Analytics done to make it compelling for organizations to migrate existing Data Warehouses, or build new Big Data and Data Warehouses solutions on Azure?  Synapse unifies Data Integration, Big Data, and Data Warehousing.
 
-![bizchanging](https://phx02pap001files.storage.live.com/y4meeOpl5gK2cNfitQpgwuwiIzp89igjBhZrfC3EutkYdyOF_eZv-mlRSr-Dm2mSL03OrYYv2vlO0yhLHHMew-guaKgEvl84M7Wu8yoJFADen0nOEqBaYbU3xj-JGpMqEAkKIR2Bx8oWN9J_byQGIGLhQtpzp3IcDY2sXlzr9iWpMcqjP5CDRNPhHvlH5sR-JSe?width=790&height=524&cropmode=none)
+![bizchanging](/assets/images/postimages/XmasGift/BusinessChangingInsightsEngine.jpg)
 
 Synapse also integrates with Power BI, Azure Machine Learning, and Azure Data Share.For me the unification of Data Integration (Azure Data Factory), SQL, and Spark is what makes Synapse special.  Data Engineers can use Data Integration data flows which use Spark job clusters for transformation at scale, and/or Spark Notebook activities can be used as part of data integration pipelines, and pipelines can sink to Azure Data Lake Storage (ADLS) or persistent dedicated SQL Pools.
 
-![synapsel100](https://phx02pap001files.storage.live.com/y4mdx-ekr_yFi3EUB5hqcoOcXUBkoo5A4FqUtJd2KZXT_4beD04_0lthGTZ0ErG8DSlxrbM4RjWUQcl_KVTTigx1fAlyXSqJ-RhP-fE5t0Jm2GK20l8Ns6VyDzwS01t8ZlERz_s5uQA_Hn5sUZrW8xjxOQ7WLk3oXCvQV_mL-5p-jZyEhw5STFy6EK9BWGZPFjj?width=999&height=544&cropmode=none)
+![synapsel100](/assets/images/postimages/XmasGift/synapseL100.jpg)
 
 External tables can be created on files in ADLS and queried with Transact-SQL using serverless on-demand queries.  Queries can be run against dedicated SQL Pools.  Spark Notebooks can access files (Json, Parquet, CSV) on ADLS storage using PySpark, Scala, Spark SQL, Java, and .Net
 
-![synapsel300](https://phx02pap001files.storage.live.com/y4m7sDnfRBH7aagzWxmC6S3XyeAhVNiW_x5-PWoNtGEePOlajcu4608Twt2XroJJjgY-JDCyeydNt_6EzMW6ei3BEhHgVfW6fXTYXqgUuBTcXvvtv-k0elMm4ic-PtQniJCF0io_MxK-zmUtkl2gzD9iEOZLKLoUI6ESe6jPWhCwqw9xhPbWH8dnZeTIEhyGL1J?width=999&height=512&cropmode=none)
+![synapsel300](/assets/images/postimages/XmasGift/synapseL300.jpg)
 
 How can you use Azure Synapse Analytics to develop your skills as a Data professional?  Start using it and practice, practice, practice!  Rebecca Sealfon recently mentioned the important of practicing in the towards data science article [Learning Data Science Online Without an Instructor: Tips and Tricks](https://towardsdatascience.com/learning-data-science-online-without-an-instructor-tips-and-tricks-5e15fb886333) “Without intensively practicing, there is no way to gain the experience to become a professional.”  This article was focused on learning Data Science, but all Analytics Data Pro roles need to practice.  Each of these roles tend to do similar categories of work related to capture, curation, and consumption of data throughout the data lifecycle.  The relationships between roles can range from complementary/interdependent to competitive/independent.  For me the Synapse Analytics Studio offers potential for cooperation to win the day, but Azure provides plenty of flexibility that is palatable to any organizational structure (Department, Organization, Enterprise).
 
@@ -55,7 +55,7 @@ How can you use Azure Synapse Analytics to develop your skills as a Data profess
 | Data Analysts | Query | Load/Transform/Data Model | Analyze/Visualize |
 | Data Officers | Map | Catalog | Access (Compliance) |
 
-![aimlbi](https://phx02pap001files.storage.live.com/y4m_icgF6PHO0Xw8TAt-PSKmrgLFDPlT7Kb7190EfUBwFEOgOGlxhRnHvNFZHl-eFFxExMjGezVaiYPOBqEo5AlbwZ-RFSJD49xXKMPsiSJDFxTQe7fA9E3U7gvZJF8ZmKLT8ps2Of1XbeRfGRmMRUaDp5iaiOfj4HcTvWHas9uu9DkS6VgeOYxhQLa-Cg3xZHG?width=999&height=501&cropmode=none)
+![aimlbi](/assets/images/postimages/XmasGift/AnalyticsAI-ML-BI.jpg)
 
 **Note:** You can utilize the 3C’s taxonomy above to look at the offerings and marketectures of other vendors in the space like Snowflakes Compile, View, Analyze and Share data or Databricks Data Lake / Delta Lake: Ingest (bronze), Refine (silver), Feature/Aggregate (gold) data.  The Bronze, Silver, and Gold labels of today were the pasts Load, Stage, and Publish.  It just used to be different network storage landing zones, combined with tables, schemas, and databases.  Now you can still do the same as the past with cloud storage and databases or embrace a modern architecture that leverages ADLS storage and Spark to create Data Lake or Delta Lake solutions.  Synapse embraces Data Lake, Delta Lake, and Data Warehouse.  I love curated data lakes and serverless OnDemand SQL with Synapse.  I developed my affection based on work I have been doing supporting the Stanford CATCH Study [https://catchstudy.stanford.edu/](https://catchstudy.stanford.edu/) .  Working with the team at Stanford has been my opportunity to practice, and you really do need a project to ignite your potential and show what Synapse and some talented customers can accomplish.
 

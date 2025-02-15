@@ -9,7 +9,7 @@ tags:
 
 Check out this past post from the Microsoft Data Architecture Blog in July 2020
 
-![SolutionsAffectLives](https://phx02pap001files.storage.live.com/y4m5ZwkNoLhgeLZnwdqCYj6ONtr5vZkHOguybZ6Md4gBeJeinWlVzw-uELNQRGBtHRH6PeOTsB5XxeA9dBW6EvsXc9Es5yEVnDFlwrJkDb_PdUIzseSHq836qLmk5CPPZuF7GuroN9ZVCAuA5A1-waHdBBxaNnWDyUoWExLvfyMolPcsTRgvoahVbA-euSLHMjw?width=981&height=750&cropmode=none)
+![SolutionsAffectLives](/assets/images/postimages/Solutions/solutions.png)
 
 Our experience shows that cloud technology, and the architecture used to create solutions can have a substantial impact on human lives.  Positive human experiences can encourage broader adoption of products, services, or ideas, and from a change management perspective can help individuals, teams, and organizations achieve lasting change.  To positively affect lives, solution architects, sponsors, and stakeholders need to do their part by help transform the experiences of those interacting/transacting with their organization by designing adaptable, end-to-end data and analytics solutions.  Architectures that have shown good results for our clients are based on these [architectural styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) (big data, event-driven, microservices).
 
@@ -23,13 +23,13 @@ When the storage, compute, network, database, web app, analytics, and AI and Mac
 
 ## Enterprise Architecture (EA) Layers
 
-![biat](https://phx02pap001files.storage.live.com/y4muj8_k1InQ8Ba8GLD98x09kxdYdCUkoXacLO2vruu72eIwNf-oMdpwUiXfkenDlLCH2Q6eFT0KnPe1Pwj358J9wzoho1k6KZ9Ub6PyWfpfxa2HVSBTTdtAFHRKHXGrjMMGraJ8yIJfOsU7PCXnPQLAE7oFpnooI6Kdlm2u5FMXHcP4wpXCyuSykTB6DH3SNTo?width=340&height=208&cropmode=none)
+![biat](/assets/images/postimages/Solutions/BIAT.jpg)
 
 Conventional BIAT Diagram and the 5-Layer BIAT Diagram [http://eitbokwiki.org/Enterprise_Architecture](http://eitbokwiki.org/Enterprise_Architecture)
 
 This post uses the term **data** vs **information** because in the world of Data & AI the industry terms are more data centric: Big Data, Data Engineer, Data Science, Data Analyst, Data Warehouse, Data Mart, Data Model, Datastore, Database, Data Visualization, Data Wrangling, Data Mining, Data Lake, DataFrame, Change Data Capture, and Master Data.  This is a lot of information, but it is all data!  Combining the two references above you might end up with a diagram that looks like this:
 
-![ealayers](https://phx02pap001files.storage.live.com/y4m6I-c5zStZO8oYtPS6RXrF6t1o_Vq2SCLkreFuFv7isurE9kxbzC7cbJcUjx-TuyHV2jV17HS7yzGGzvYpfZshMZGwc8TnnIl1MFMM_Rbnk2J8NPU4dnd7OjdBpWaPeXUaQRamdGfUiIIHt29lZXyuWAFNMvBHZor-1SlN7f1u0MQzJKZ5xmYtLOBX26DknsO?width=999&height=699&cropmode=none)
+![ealayers](/assets/images/postimages/Solutions/ealayers.png)
 
 `Darwin’s munging (in a data wrangling kind of way) of EA layers and Architectural Components`
 
@@ -59,7 +59,7 @@ What are some of the things to consider when building a data and analytics solut
 
 `Note: You will have some of the capabilities and technologies already in place, so this is an integration-based solution that often extends what you already have.  You will want to migrate some of the applications and data sources to Azure, but the data and analytics components (stuff in land, stage, warehouse, information delivery, BI, AI and ML, and applications) are definitely best up on Azure.`
 
-![e2e](https://phx02pap001files.storage.live.com/y4mSFUx4A2_x_BFcweAkTSGoOdJHCizUoF3mP78rlaaJrK73cSz6C-r2-Itg2c2TTlg0WH9BTadR1qHn-siGfCpVp0qDYglDZg9KpXSeTOQm6poy7iNdRYOZ5KMUma7oRImTHmqREXM9uIWg89Dmw67_PyChYrnyc8QPGEQv0kSL6vilp87p2HcpRp-DEZhPBtP?width=999&height=531&cropmode=none)
+![e2e](/assets/images/postimages/Solutions/e2edataaisolutions.png)
 
 `Darwin’s end-to-end cloud solution architecture diagram`
 
@@ -67,13 +67,13 @@ What are some of the things to consider when building a data and analytics solut
 
 Some of the inspiration for this post comes from the Data Vault methodology.  Solutions I have created during the last 25 years used Land, Stage, and Publish tables and schema along with association tables to associate source system keys with surrogate keys.  Information delivery was through star schema accessed by BI tools like Power BI.  I considered my approach as Kimball-based but in many ways it was actually pretty aligned with the Data Vault methodology, which IMO is a nice blend of the Ralph Kimball and the Bill Inmon approaches to data warehousing.  Below is a diagram of the Data Vault architecture.
 
-![datavault](https://phx02pap001files.storage.live.com/y4mf4Owx4Xk6432xAnHVCPDQjb_SjtO4zEiJGEyAR7baLxgV3eKoMrRuht5Vy2NUhXAP32IUvPUx9goBZCwBZShbj9O7gSG7jcbPXTF465o1rnir7PbsyK-r7PD58PYWTqsSKoYNtndbn2H-FuZxZBaFMzsxhWZjakdd63mn11DB6nmAGNNbJws9ZeCqF-n3oL4?width=800&height=598&cropmode=none)
+![datavault](/assets/images/postimages/Solutions/datavault.jpg)
 
 [Building a Scalable Data Warehouse with Data Vault 2.0](https://www.amazon.com/Building-Scalable-Data-Warehouse-Vault-ebook-dp-B015KKYFGO/dp/B015KKYFGO/ref=mt_other?_encoding=UTF8&me=&qid=) by Dan Linstedt and Michael Olschimke
 
 I also found this illustration helpful from the eBook [Data Warehouse Automation in Azure for Dummies](https://www.qlik.com/us/resource-library/data-warehouse-automation-in-azure-for-dummies) by Matthew Basile, Clive Bearman, Rajeev Jain, and Kevin Pardue
 
-![agiledata](https://phx02pap001files.storage.live.com/y4mOH7TKOxe3XVNZXfsVEAhW2th3sxVZ_2lyPnnHWnOwseGCNQhKCWbF_vx-lyCFZOoF78etGQHxs7F-4OkMzaIRDyULLeVqKcsGT9as3c-ya3Ek3Pf9C2N01MUOHUzWkwHQNbMUpRyA7cfNSUr0QFNb8E40Brc8tOQAaXtyBuPIbGlCjTuQz4QlNgMi5LkcXZM?width=999&height=297&cropmode=none)
+![agiledata](/assets/images/postimages/Solutions/agiledatapipeline.png)
 
 So, to wrap up and test my real-life scenario, would this architecture improve the experience of someone renting moving equipment? In my opinion as both a solution architect and a consumer, a definitive yes! There are systems, people, and processes in place, but there are things to consider extending to improve the human experience. For example, if the people and processes change the pickup and drop off locations with the customer at too great a frequency; something has to report, predict the negative experience, and then the system, people, and processes have to adopt to prevent the occurrence of such negative experiences. It is the interactions that happen around the transactions that often determine the experience.
 
