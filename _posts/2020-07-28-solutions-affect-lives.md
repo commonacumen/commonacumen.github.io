@@ -59,7 +59,7 @@ What are some of the things to consider when building a data and analytics solut
 
 `Note: You will have some of the capabilities and technologies already in place, so this is an integration-based solution that often extends what you already have.  You will want to migrate some of the applications and data sources to Azure, but the data and analytics components (stuff in land, stage, warehouse, information delivery, BI, AI and ML, and applications) are definitely best up on Azure.`
 
-![e2e](/assets/images/postimages/Solutions/e2edataaisolutions.png)
+![e2e](/assets/images/postimages/Solutions/e2edataaisolution.png)
 
 `Darwin’s end-to-end cloud solution architecture diagram`
 

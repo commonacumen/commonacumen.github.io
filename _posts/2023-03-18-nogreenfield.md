@@ -26,7 +26,7 @@ One of my favorite features that went GA recently with SQL Server 2022 is Manage
 
 Here is how the managed instance link feature works:    
 
-![sqlmilink](https://phx02pap001files.storage.live.com/y4mgXmo4zvINHp-Ky9yHeRALox7emgiLDjgx1DfOspkS8YrjFS8YC_c85q4W8sr8DCeCkjRn1ojgSkX0pmWbE5JljuhoSylGzpfat45VrZEIrOUVFuhsAPtZgORQXxx4KNzpe52N60JmfDRhXNRtwA9yySN7ZNuADnyeWqIEWVZWjZJQ7IxcWOe8hfeJIL2ERCl?width=990&height=549&cropmode=none)
+![sqlmilink](/assets/images/postimages/nogreenfield/SqlServerSQLMIlink.png))
 
 This slide is from a SQL Server 2022 presentation by Bob Ward and Buck Woody
 
@@ -38,7 +38,7 @@ I am currently working with a customer that is migrating their entire on-premise
 
 Here is how Oracle Active Data Guard and Oracle Database running on Azure Linux IaaS VMs can be used for HA/DR and replication for reporting and analytics:
 
-![oracledataguard](https://phx02pap001files.storage.live.com/y4mxi04-JfAMkyoSGfDBBg3thKdrrdT8rOso9AkMLzcxrEhzc4WE4zhG-HS0M1dCTMyRjR8oqMCPzfN8rAlZzTvFKK877EbjxuZUTvAsa8H5VOMC7JAtOLIDALj6uRUkdGTaeOshvlZf8V4o21vdRqzDv9Xq8JgdM2D5mjwsWGC8sNAmXK-ObySlR2bnmvXQ_6G?width=987&height=546&cropmode=none)
+![oracledataguard](/assets/images/postimages/nogreenfield/OracleActiveDataGuard.png)
 
 This slide is from a Kellyn Gorman who works with Azure Customers to migrate their Oracle workloads to Azure
 
@@ -53,7 +53,7 @@ Or checkout `Change Data Capture and Managed Airflow in Azure Data Factory | Azu
 {% include youtube.html id="GaWlhlReoA8" %}
 
 
-![adfcdc](https://phx02pap001files.storage.live.com/y4mbh6lkungQGXWYB05oe5gjKvNltwNCcMkuTmQxGCc0G0RzYDWGmXDuj6-pvkjL-e7-S_h25cdpjw2dTQAd9c7ViimkuUN1qPS5h4-s_q-zkjrZQRHojzHVChJOdW4Nexu5ayU6LXSEsdu_IHjMcOvOdZhC5Q77s1-gmHS_Wciijqk9QlSBqrd-0p1oom_RkZL?width=1433&height=501&cropmode=none)
+![adfcdc](/assets/images/postimages/nogreenfield/ADFcdc.png)
 
 
 **ADF, SQL Database, and Databricks Azure Analytics Accelerator**
