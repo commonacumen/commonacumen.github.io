@@ -63,5 +63,3 @@ tags:
 Hope you enjoy the posts.
 
 Darwin Schweitzer [LinkedIn](https://www.linkedin.com/in/darsch)
-
-![CommonAcumenInto](https://phx02pap001files.storage.live.com/y4mobUEQt0QojxHZzHR0Cqqg8WVDqQiizoO5sr1j0PGoIcmAlcsolVbHhoubmRGcX3_B1ftOOGQnzNZmL7Af8Gj0fMwr5wqu-srik0mxTT7Qnh6d2IsR10WVtc2n-bLzKjCwfkMethxQnLCX64uv620nVeBrUM2IYpOHflmrZPRSb5jcQHVIn28-ddZiF5wZl66?width=999&height=749&cropmode=none)
